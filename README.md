@@ -202,15 +202,15 @@
 
     git clone https://github.com/Thasushigamer/HackerTool.git
     
-    chmod -R 755 hackingtool  
+    chmod -R 755 HackingtTool  
     
-    cd hackingtool
+    cd HackingTool
     
     sudo pip3 install -r requirement.txt
     
     bash install.sh
     
-    sudo hackingtool
+    sudo HackingTool
 
  After Following All Steps Just Type In Terminal **root@kaliLinux:~** **hackingtool**
 
